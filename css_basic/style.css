@@ -44,4 +44,58 @@ header, footer {
         width: 100%; /* Make them full width */
     }
 }
+/* styles.css */
+
+/* Header styles */
+header {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 10px; /* Padding for spacing */
+    display: flex; /* Flexbox for layout */
+    align-items: center; /* Center items vertically */
+}
+
+header ul {
+    list-style-type: none; /* Remove bullet points */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    display: flex; /* Align items horizontally */
+    flex-grow: 1; /* Allow the list to grow */
+}
+
+header li {
+    margin-right: 20px; /* Spacing between items */
+}
+
+.logo {
+    font-size: 2em; /* Make the logo larger */
+    margin-right: 10px; /* Space after the logo */
+}
+
+/* Main styles */
+main {
+    padding: 20px; /* Add some padding to the main content */
+    background-color: #f9f9f9; /* Light gray background */
+}
+
+article {
+    padding: 15px; /* Padding for article */
+    background-color: #fff; /* White background */
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+aside {
+    padding: 15px; /* Padding for aside */
+    background-color: #fff; /* White background */
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+footer {
+    background-color: #333; /* Dark background */
+    color: white; /* White text */
+    text-align: center; /* Center text */
+    padding: 10px; /* Padding for spacing */
+}
 
