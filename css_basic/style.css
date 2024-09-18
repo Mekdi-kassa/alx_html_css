@@ -33,3 +33,15 @@ header, footer {
     background-color: #f1f1f1; /* Light background color */
     text-align: center; /* Center text */
 }
+@media (max-width: 600px) {
+    /* Adjust styles for screens smaller than 600px */
+    main {
+        flex-direction: column; /* Stack article and aside vertically */
+    }
+
+    article, aside {
+        flex: none; /* Remove flex properties for better stacking */
+        width: 100%; /* Make them full width */
+    }
+}
+
