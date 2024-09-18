@@ -1,1 +1,26 @@
-
+body{
+    background-image: url('https://www.google.com/imgres?q=ethipia%20womne%20ai&imgurl=https%3A%2F%2Feasy-peasy.ai%2Fcdn-cgi%2Fimage%2Fquality%3D80%2Cformat%3Dauto%2Cwidth%3D700%2Fhttps%3A%2F%2Ffdczvxmwwjwpwbeeqcth.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fimages%2F2a870d76-15db-4d40-9a7a-045f2051aa18%2Ff60ce672-cd74-4486-82f5-c61655359902.png&imgrefurl=https%3A%2F%2Feasy-peasy.ai%2Fai-image-generator%2Fimages%2Fethiopian-women-celebrating-culture-community-traditional-activities&docid=kAAvDg1nrqwdxM&tbnid=2DtYFr6xPZkCBM&vet=12ahUKEwjm0P3ZkcyIAxUfEDQIHTu8J0cQM3oECDQQAA..i&w=700&h=700&hcb=2&ved=2ahUKEwjm0P3ZkcyIAxUfEDQIHTu8J0cQM3oECDQQAA');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.logo{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.links1{
+    margin-left: 840px;
+    margin-right: 20px;
+    font-family: "SUSE", sans-serif;
+    color: black;
+}
+.links2{
+    margin-right: 20px;
+    font-family: "SUSE", sans-serif;
+    color: black;
+}
+.links3{
+    margin-right:20px;
+    font-family: "SUSE", sans-serif;
+    color:black;
+}
