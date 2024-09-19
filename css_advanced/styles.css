@@ -1,9 +1,13 @@
 body{
-    background-image: url('https://www.google.com/imgres?q=ethipia%20womne%20ai&imgurl=https%3A%2F%2Feasy-peasy.ai%2Fcdn-cgi%2Fimage%2Fquality%3D80%2Cformat%3Dauto%2Cwidth%3D700%2Fhttps%3A%2F%2Ffdczvxmwwjwpwbeeqcth.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fimages%2F2a870d76-15db-4d40-9a7a-045f2051aa18%2Ff60ce672-cd74-4486-82f5-c61655359902.png&imgrefurl=https%3A%2F%2Feasy-peasy.ai%2Fai-image-generator%2Fimages%2Fethiopian-women-celebrating-culture-community-traditional-activities&docid=kAAvDg1nrqwdxM&tbnid=2DtYFr6xPZkCBM&vet=12ahUKEwjm0P3ZkcyIAxUfEDQIHTu8J0cQM3oECDQQAA..i&w=700&h=700&hcb=2&ved=2ahUKEwjm0P3ZkcyIAxUfEDQIHTu8J0cQM3oECDQQAA');
+    background-color: plum;
+    background:linear-gradient(to bottom, rgba(0,0,0,0) 20%, rgba(0,0,0,1)), url('https://www.shutterstock.com/image-photo/fashionable-black-woman-wearing-classic-600nw-2149367103.jpg');
+    position: relative;
+    width:  100VW;
+    height: 130VH;
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-size: 100% 100%;
 }
+
 .logo{
     margin-left: 40px;
     margin-top: 10px;
@@ -23,4 +27,158 @@ body{
     margin-right:20px;
     font-family: "SUSE", sans-serif;
     color:black;
+}
+.get{
+    margin-bottom: 30px;
+    margin-top: 80px;
+    margin-left: 360px;
+    font-size: 90px;
+    color: #fff;
+    font-weight: bolder;
+
+}
+.span1{
+    margin-top: 30px;
+    margin-left: 450px;
+    margin-right: 30px;
+    font-family: "SUSE", sans-serif;
+    color:#fff;
+    margin-bottom: 20px;
+}
+.span2{
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: "SUSE", sans-serif;
+    color:#fff;
+    margin-bottom: 20px;
+}
+.span3{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 40px;
+    font-family: "SUSE", sans-serif;
+    color:#fff;
+    margin-bottom: 20px;
+}
+.button1{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: rgb(166, 74, 90);
+    margin-left: 530px;
+    margin-top: 60px;
+    border-width: 3px;
+    border-color: #fff;
+}
+.pros{
+    margin-top: 0px;
+    padding-top: 50px;
+    margin-left: 200px;
+    color: #fff;
+    margin-right: 0;
+    font-weight: lighter;
+    margin-bottom: 30px;
+}
+.learn{
+    margin-top: 0px;
+    color: red;
+    margin-left: 330px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.image{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #fff;
+    margin-bottom: 0%;
+}
+.pic1{
+    border-radius:50%;
+    width:100px;
+    height: 100px;
+}
+.pics2{
+    border-radius:50%;
+    width:100px;
+    height: 100px;
+}
+.pics3{
+    border-radius: 50%;
+    width:100px;
+    height: 100px;
+}
+.pics4{
+    border-radius: 50%;
+    width:100px;
+    height: 100px;
+}
+.image2{
+    display: flex;
+    flex-direction: row;
+    background-color: brown;
+  
+}
+.pics5{
+    border-radius: 50%;
+    width:100px;
+    height: 100px;
+    margin-left: 250px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    
+}
+.text2{
+    text-align: center;
+    margin-top: 80px;
+}
+.pics6{
+    border-radius: 50%;
+    width:50px;
+    height: 50px;
+}
+
+.image4{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    color: #000;
+}
+.star{
+    display: flex;
+    flex-direction: row;
+    color: brown;
+}
+.contents2{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    color: #000;
+}
+.button2{
+    border-radius: 30px;
+    padding: 10px;
+    background-color: rgb(166, 74, 90);
+    margin-left: 530px;
+    margin-top: 60px;
+    border-width: 3px;
+    border-color: #fff;
+    margin-bottom: 60px;
+}
+.top1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: black;
+
+}
+.last{
+    font-family: "SUSE", sans-serif;
+    margin-left: 500px;
 }
