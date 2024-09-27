@@ -11,7 +11,7 @@ body{
 }
 a{
     padding:0 10px;
-    color: black;
+    color: #fff;
 }
 a:hover{
     color:#FF6565;
@@ -25,7 +25,7 @@ a:hover{
     display: none;
 }
 .ck{
-    color: black;
+    color:#fff;
     display: none;
 }
 h1{
@@ -33,15 +33,17 @@ h1{
     margin-right: 300px; 
     margin-top: 150px;
     margin-bottom: 0;
+    color: #fff;
 }
 h3{
-    margin-left: 420px;margin-right: 400px;margin-top: 0;
+    margin-left: 420px;margin-right: 400px;margin-top: 0;color:#fff;
 }
 button{
-    background-color: #FF6565; margin-left: 540px;margin-right: 400px;margin-top: 20px;border-radius: 20px;padding: 8px;color: black;
+    background-color: #FF6565; margin-left: 540px;margin-right: 400px;margin-top: 20px;border-radius: 20px;padding: 8px;color: rgb(255, 255, 255);
 }
 .d1{
     margin-left: 200px;margin-right: 200px;
+    color: #fff;
 }
 
 @media(max-width:480px){
@@ -54,9 +56,7 @@ button{
     .s,.w{
         display: none;
     }
-    #check{
-        display: block;
-    }
+    
     #check:checked~.meanu{
         display: block; 
         flex-direction: column;
