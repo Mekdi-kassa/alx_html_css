@@ -1,0 +1,43 @@
+section{
+    background-color:#fff;
+}
+.h1{
+    text-align: center;
+}
+.what{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.h3{
+    text-align: center;
+}
+.d{
+    margin-left: 250px;
+    margin-right: 200px;
+}
+.d2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: space-between;
+}
+@media(max-width:480px){
+    .h1{
+        margin-left: 100px;
+        margin-right: 70px;
+    }
+    .what{
+        margin-right: 40px;
+        margin-left: 90px;
+        margin-top: 30px;
+    }
+    .d{
+        margin-left: 100px;
+        margin-right:0px ;
+    }
+    .d2{
+        display: flex;
+        flex-direction: column;
+
+    }
+}
